@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<office:document xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:meta="urn:oasis:names:tc:opendocument:xmlns:meta:1.0" xmlns:number="urn:oasis:names:tc:opendocument:xmlns:datastyle:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:chart="urn:oasis:names:tc:opendocument:xmlns:chart:1.0" xmlns:dr3d="urn:oasis:names:tc:opendocument:xmlns:dr3d:1.0" xmlns:math="http://www.w3.org/1998/Math/MathML" xmlns:form="urn:oasis:names:tc:opendocument:xmlns:form:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:config="urn:oasis:names:tc:opendocument:xmlns:config:1.0" xmlns:ooo="http://openoffice.org/2004/office" xmlns:ooow="http://openoffice.org/2004/writer" xmlns:oooc="http://openoffice.org/2004/calc" xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:rpt="http://openoffice.org/2005/report" xmlns:of="urn:oasis:names:tc:opendocument:xmlns:of:1.2" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:grddl="http://www.w3.org/2003/g/data-view#" xmlns:officeooo="http://openoffice.org/2009/office" xmlns:tableooo="http://openoffice.org/2009/table" xmlns:drawooo="http://openoffice.org/2010/draw" xmlns:calcext="urn:org:documentfoundation:names:experimental:calc:xmlns:calcext:1.0" xmlns:loext="urn:org:documentfoundation:names:experimental:office:xmlns:loext:1.0" xmlns:field="urn:openoffice:names:experimental:ooo-ms-interop:xmlns:field:1.0" xmlns:formx="urn:openoffice:names:experimental:ooxml-odf-interop:xmlns:form:1.0" xmlns:css3t="http://www.w3.org/TR/css3-text/" office:version="1.2" office:mimetype="application/vnd.oasis.opendocument.text">
+ <office:meta><meta:initial-creator>Filip Životský</meta:initial-creator><meta:creation-date>2017-09-18T12:38:45.638011562</meta:creation-date><dc:date>2017-11-23T10:33:18.359549870</dc:date><meta:editing-duration>P1DT4H7M41S</meta:editing-duration><meta:editing-cycles>54</meta:editing-cycles><meta:generator>LibreOffice/5.1.6.2$Linux_X86_64 LibreOffice_project/10m0$Build-2</meta:generator><dc:creator>Filip Životský</dc:creator><meta:document-statistic meta:table-count="0" meta:image-count="0" meta:object-count="0" meta:page-count="13" meta:paragraph-count="211" meta:word-count="3930" meta:character-count="24572" meta:non-whitespace-character-count="20769"/></office:meta>
+ <office:settings>
+  <config:config-item-set config:name="ooo:view-settings">
+   <config:config-item config:name="ViewAreaTop" config:type="long">29633</config:config-item>
+   <config:config-item config:name="ViewAreaLeft" config:type="long">0</config:config-item>
+   <config:config-item config:name="ViewAreaWidth" config:type="long">33868</config:config-item>
+   <config:config-item config:name="ViewAreaHeight" config:type="long">14713</config:config-item>
+   <config:config-item config:name="ShowRedlineChanges" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="InBrowseMode" config:type="boolean">false</config:config-item>
+   <config:config-item-map-indexed config:name="Views">
+    <config:config-item-map-entry>
+     <config:config-item config:name="ViewId" config:type="string">view2</config:config-item>
+     <config:config-item config:name="ViewLeft" config:type="long">25412</config:config-item>
+     <config:config-item config:name="ViewTop" config:type="long">32703</config:config-item>
+     <config:config-item config:name="VisibleLeft" config:type="long">0</config:config-item>
+     <config:config-item config:name="VisibleTop" config:type="long">29633</config:config-item>
+     <config:config-item config:name="VisibleRight" config:type="long">33867</config:config-item>
+     <config:config-item config:name="VisibleBottom" config:type="long">44344</config:config-item>
+     <config:config-item config:name="ZoomType" config:type="short">0</config:config-item>
+     <config:config-item config:name="ViewLayoutColumns" config:type="short">1</config:config-item>
+     <config:config-item config:name="ViewLayoutBookMode" config:type="boolean">false</config:config-item>
+     <config:config-item config:name="ZoomFactor" config:type="short">100</config:config-item>
+     <config:config-item config:name="IsSelectedFrame" config:type="boolean">false</config:config-item>
+    </config:config-item-map-entry>
+   </config:config-item-map-indexed>
+  </config:config-item-set>
+  <config:config-item-set config:name="ooo:configuration-settings">
+   <config:config-item config:name="PrintProspect" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintLeftPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintPageBackground" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintControls" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintAnnotationMode" config:type="short">0</config:config-item>
+   <config:config-item config:name="PrintGraphics" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintRightPages" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintFaxName" config:type="string"/>
+   <config:config-item config:name="PrintPaperFromSetup" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintTextPlaceholder" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyParagraphMarkFormatToNumbering" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintReversed" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverMargin" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SurroundTextWrapSmall" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="BackgroundParaOverDrawings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ClippedPictures" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="FloattableNomargins" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnbreakableNumberings" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbedSystemFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabOverflow" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintTables" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintSingleJobs" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SmallCapsPercentage66" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CollapseEmptyCellPara" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="MathBaselineAlignment" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IsLabelDocument" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrinterName" config:type="string"/>
+   <config:config-item config:name="OutlineLevelYieldsNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="IgnoreFirstLineIndentInNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UpdateFromTemplate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintBlackFonts" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TableRowKeep" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="EmbeddedDatabaseName" config:type="string"/>
+   <config:config-item config:name="IgnoreTabsAndBlanksForLineCalculation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseOldPrinterMetrics" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="InvertBorderSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SaveGlobalDocumentLinks" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabsRelativeToIndent" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="Rsid" config:type="int">12123074</config:config-item>
+   <config:config-item config:name="PrintProspectRTL" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintEmptyPages" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ApplyUserData" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrintHiddenText" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacingAtStart" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="FieldAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseOldNumbering" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaTableSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CharacterCompressionType" config:type="short">0</config:config-item>
+   <config:config-item config:name="SaveVersionOnClose" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="ChartAutoUpdate" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="PrinterIndependentLayout" config:type="string">high-resolution</config:config-item>
+   <config:config-item config:name="IsKernAsianPunctuation" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerObjectPositioning" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddVerticalFrameOffsets" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="SubtractFlysAnchoredAtFlys" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="AddParaSpacingToTableCells" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="AddExternalLeading" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="CurrentDatabaseDataSource" config:type="string"/>
+   <config:config-item config:name="AllowPrintJobCancel" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ProtectForm" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UseFormerLineSpacing" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="PrintDrawings" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="UseFormerTextWrapping" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="UnxForceZeroExtLeading" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="TabAtLeftIndentForParagraphsInList" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RedlineProtectionKey" config:type="base64Binary"/>
+   <config:config-item config:name="PropLineSpacingShrinksFirstLine" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="ConsiderTextWrapOnObjPos" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="RsidRoot" config:type="int">2017776</config:config-item>
+   <config:config-item config:name="StylesNoDefault" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="LinkUpdateMode" config:type="short">1</config:config-item>
+   <config:config-item config:name="AlignTabStopPosition" config:type="boolean">true</config:config-item>
+   <config:config-item config:name="DoNotJustifyLinesWithManualBreak" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotResetParaAttrsForNumFont" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommandType" config:type="int">0</config:config-item>
+   <config:config-item config:name="LoadReadonly" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="DoNotCaptureDrawObjsOnPage" config:type="boolean">false</config:config-item>
+   <config:config-item config:name="CurrentDatabaseCommand" config:type="string"/>
+   <config:config-item config:name="PrinterSetup" config:type="base64Binary"/>
+   <config:config-item config:name="ClipAsCharacterAnchoredWriterFlyFrames" config:type="boolean">false</config:config-item>
+  </config:config-item-set>
+ </office:settings>
+ <office:scripts>
+  <office:script script:language="ooo:Basic">
+   <ooo:libraries xmlns:ooo="http://openoffice.org/2004/office" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <ooo:library-embedded ooo:name="Standard"/>
+   </ooo:libraries>
+  </office:script>
+ </office:scripts>
+ <office:font-face-decls>
+  <style:font-face style:name="OpenSymbol" svg:font-family="OpenSymbol" style:font-charset="x-symbol"/>
+  <style:font-face style:name="DejaVu Serif" svg:font-family="&apos;DejaVu Serif&apos;" style:font-family-generic="roman"/>
+  <style:font-face style:name="FreeSans1" svg:font-family="FreeSans" style:font-family-generic="swiss"/>
+  <style:font-face style:name="SKAUT" svg:font-family="SKAUT" style:font-adornments="Tučné" style:font-pitch="variable"/>
+  <style:font-face style:name="TheMix C51" svg:font-family="&apos;TheMix C5&apos;" style:font-pitch="variable"/>
+  <style:font-face style:name="TheMix C5" svg:font-family="&apos;TheMix C5&apos;" style:font-adornments="SemiLight" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif" svg:font-family="&apos;Liberation Serif&apos;" style:font-adornments="Běžné" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Serif1" svg:font-family="&apos;Liberation Serif&apos;" style:font-adornments="Kurzíva" style:font-family-generic="roman" style:font-pitch="variable"/>
+  <style:font-face style:name="Liberation Sans" svg:font-family="&apos;Liberation Sans&apos;" style:font-adornments="Běžné" style:font-family-generic="swiss" style:font-pitch="variable"/>
+  <style:font-face style:name="FreeSans" svg:font-family="FreeSans" style:font-family-generic="system" style:font-pitch="variable"/>
+  <style:font-face style:name="Tahoma" svg:font-family="Tahoma" style:font-family-generic="system" style:font-pitch="variable"/>
+ </office:font-face-decls>
+ <office:styles>
+  <style:default-style style:family="graphic">
+   <style:graphic-properties svg:stroke-color="#3465a4" draw:fill-color="#729fcf" fo:wrap-option="no-wrap" draw:shadow-offset-x="0.3cm" draw:shadow-offset-y="0.3cm" draw:start-line-spacing-horizontal="0.283cm" draw:start-line-spacing-vertical="0.283cm" draw:end-line-spacing-horizontal="0.283cm" draw:end-line-spacing-vertical="0.283cm" style:flow-with-text="false"/>
+   <style:paragraph-properties style:text-autospace="ideograph-alpha" style:line-break="strict" style:writing-mode="lr-tb" style:font-independent-line-spacing="false">
+    <style:tab-stops/>
+   </style:paragraph-properties>
+   <style:text-properties style:use-window-font-color="true" style:font-name="DejaVu Serif" fo:font-size="12pt" fo:language="cs" fo:country="CZ" style:letter-kerning="true" style:font-name-asian="Tahoma" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN"/>
+  </style:default-style>
+  <style:default-style style:family="paragraph">
+   <style:paragraph-properties fo:orphans="2" fo:widows="2" fo:hyphenation-ladder-count="no-limit" style:text-autospace="ideograph-alpha" style:punctuation-wrap="hanging" style:line-break="strict" style:tab-stop-distance="0.577cm" style:writing-mode="lr-tb"/>
+   <style:text-properties style:use-window-font-color="true" style:font-name="DejaVu Serif" fo:font-size="12pt" fo:language="cs" fo:country="CZ" style:letter-kerning="true" style:font-name-asian="Tahoma" style:font-size-asian="10.5pt" style:language-asian="zh" style:country-asian="CN" style:font-name-complex="FreeSans" style:font-size-complex="12pt" style:language-complex="hi" style:country-complex="IN" fo:hyphenate="false" fo:hyphenation-push-char-count="2"/>
+  </style:default-style>
+  <style:default-style style:family="table">
+   <style:table-properties table:border-model="collapsing"/>
+  </style:default-style>
+  <style:default-style style:family="table-row">
+   <style:table-row-properties fo:keep-together="auto"/>
+  </style:default-style>
+  <style:style style:name="Standard" style:family="paragraph" style:class="text">
+   <style:paragraph-properties style:writing-mode="page"/>
+   <style:text-properties style:font-name="Liberation Sans" fo:font-family="&apos;Liberation Sans&apos;" style:font-style-name="Běžné" style:font-family-generic="swiss" style:font-pitch="variable" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="Heading" style:family="paragraph" style:parent-style-name="Standard" style:next-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:keep-with-next="always" style:writing-mode="page"/>
+   <style:text-properties style:font-name="TheMix C5" fo:font-family="&apos;TheMix C5&apos;" style:font-style-name="SemiLight" style:font-pitch="variable" fo:font-size="14pt" style:font-name-asian="Tahoma" style:font-family-asian="Tahoma" style:font-family-generic-asian="system" style:font-pitch-asian="variable" style:font-size-asian="14pt" style:font-name-complex="FreeSans" style:font-family-complex="FreeSans" style:font-family-generic-complex="system" style:font-pitch-complex="variable" style:font-size-complex="14pt"/>
+  </style:style>
+  <style:style style:name="Text_20_body" style:display-name="Text body" style:family="paragraph" style:parent-style-name="Standard" style:class="text" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.247cm" loext:contextual-spacing="false" fo:line-height="120%" fo:text-align="justify" style:justify-single-word="false" style:page-number="auto" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-style-name="Běžné" style:font-family-generic="roman" style:font-pitch="variable" officeooo:rsid="005d5843" style:font-size-asian="10.5pt"/>
+  </style:style>
+  <style:style style:name="List" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="list">
+   <style:paragraph-properties style:writing-mode="page"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-style-name="Běžné" style:font-family-generic="roman" style:font-pitch="variable" style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Caption" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0.212cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Liberation Serif1" fo:font-family="&apos;Liberation Serif&apos;" style:font-style-name="Kurzíva" style:font-family-generic="roman" style:font-pitch="variable" fo:font-size="12pt" fo:font-style="italic" style:font-size-asian="12pt" style:font-style-asian="italic" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss" style:font-size-complex="12pt" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="Index" style:family="paragraph" style:parent-style-name="Standard" style:class="index">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0" style:writing-mode="page"/>
+   <style:text-properties style:font-name="Liberation Serif" fo:font-family="&apos;Liberation Serif&apos;" style:font-style-name="Běžné" style:font-family-generic="roman" style:font-pitch="variable" style:font-size-asian="12pt" style:font-name-complex="FreeSans1" style:font-family-complex="FreeSans" style:font-family-generic-complex="swiss"/>
+  </style:style>
+  <style:style style:name="Title" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:text-align="center" style:justify-single-word="false" style:writing-mode="page"/>
+   <style:text-properties style:font-name="SKAUT" fo:font-family="SKAUT" style:font-style-name="Tučné" style:font-pitch="variable" fo:font-size="28pt" fo:font-weight="bold" style:font-size-asian="28pt" style:font-weight-asian="bold" style:font-size-complex="28pt" style:font-weight-complex="normal"/>
+  </style:style>
+  <style:style style:name="Text" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Heading_20_2" style:display-name="Heading 2" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="2" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.353cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="115%" fo:font-weight="bold" style:font-size-asian="115%" style:font-weight-asian="bold" style:font-size-complex="115%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_1" style:display-name="Contents 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Marginalia" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-left="4.001cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="List_20_3" style:display-name="List 3" style:family="paragraph" style:parent-style-name="List" style:class="list">
+   <style:paragraph-properties fo:margin-left="1.905cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="User_20_Index_20_4" style:display-name="User Index 4" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="1.498cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="15.503cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="User_20_Index_20_1" style:display-name="User Index 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="User_20_Index_20_3" style:display-name="User Index 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.998cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.002cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Footer_20_left" style:display-name="Footer left" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0">
+    <style:tab-stops>
+     <style:tab-stop style:position="8.5cm" style:type="center"/>
+     <style:tab-stop style:position="17cm" style:type="right"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Numbering_20_5_20_Cont." style:display-name="Numbering 5 Cont." style:family="paragraph" style:parent-style-name="List" style:class="list">
+   <style:paragraph-properties fo:margin-left="3.175cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Subtitle" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:class="chapter">
+   <style:paragraph-properties fo:margin-top="0.106cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:font-size="18pt" style:font-size-asian="18pt" style:font-size-complex="18pt"/>
+  </style:style>
+  <style:style style:name="Signature" style:family="paragraph" style:parent-style-name="Standard" style:class="text">
+   <style:paragraph-properties text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Numbering_20_3_20_End" style:display-name="Numbering 3 End" style:family="paragraph" style:parent-style-name="List" style:next-style-name="Numbering_20_3" style:class="list">
+   <style:paragraph-properties fo:margin-left="1.905cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.423cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Numbering_20_3" style:display-name="Numbering 3" style:family="paragraph" style:parent-style-name="List" style:class="list">
+   <style:paragraph-properties fo:margin-left="1.905cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Illustration" style:family="paragraph" style:parent-style-name="Caption" style:class="extra">
+   <style:paragraph-properties style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="Footnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-left="0.598cm" fo:margin-right="0cm" fo:text-indent="-0.598cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="10pt" style:font-size-asian="10pt" style:font-size-complex="10pt"/>
+  </style:style>
+  <style:style style:name="Quotations" style:family="paragraph" style:parent-style-name="Standard" style:class="html">
+   <style:paragraph-properties fo:margin-left="1cm" fo:margin-right="1cm" fo:margin-top="0cm" fo:margin-bottom="0.499cm" loext:contextual-spacing="false" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Addressee" style:family="paragraph" style:parent-style-name="Standard" style:class="extra">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0.106cm" loext:contextual-spacing="false" text:number-lines="false" text:line-number="0"/>
+  </style:style>
+  <style:style style:name="Contents_20_Heading" style:display-name="Contents Heading" style:family="paragraph" style:parent-style-name="Heading" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false" text:number-lines="false" text:line-number="0"/>
+   <style:text-properties fo:font-size="16pt" fo:font-weight="bold" style:font-size-asian="16pt" style:font-weight-asian="bold" style:font-size-complex="16pt" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_1" style:display-name="Heading 1" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="1" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="130%" fo:font-weight="bold" style:font-size-asian="130%" style:font-weight-asian="bold" style:font-size-complex="130%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Heading_20_3" style:display-name="Heading 3" style:family="paragraph" style:parent-style-name="Heading" style:next-style-name="Text_20_body" style:default-outline-level="3" style:class="text">
+   <style:paragraph-properties fo:margin-top="0.247cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:font-size="101%" fo:font-weight="bold" style:font-size-asian="101%" style:font-weight-asian="bold" style:font-size-complex="101%" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Contents_20_2" style:display-name="Contents 2" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.499cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.501cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="Contents_20_3" style:display-name="Contents 3" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0.998cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="16.002cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="List_20_1" style:display-name="List 1" style:family="paragraph" style:parent-style-name="List" style:class="list">
+   <style:paragraph-properties fo:margin-left="0.635cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Index_20_1" style:display-name="Index 1" style:family="paragraph" style:parent-style-name="Index" style:class="index">
+   <style:paragraph-properties fo:margin-left="0cm" fo:margin-right="0cm" fo:text-indent="0cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Table" style:family="paragraph" style:parent-style-name="Caption" style:class="extra"/>
+  <style:style style:name="Numbering_20_1_20_Start" style:display-name="Numbering 1 Start" style:family="paragraph" style:parent-style-name="List" style:next-style-name="Numbering_20_1" style:class="list">
+   <style:paragraph-properties fo:margin-left="0.635cm" fo:margin-right="0cm" fo:margin-top="0.423cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Numbering_20_1" style:display-name="Numbering 1" style:family="paragraph" style:parent-style-name="List" style:class="list">
+   <style:paragraph-properties fo:margin-left="0.635cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="List_20_Indent" style:display-name="List Indent" style:family="paragraph" style:parent-style-name="Text_20_body" style:class="text">
+   <style:paragraph-properties fo:margin-left="5.001cm" fo:margin-right="0cm" fo:text-indent="-4.5cm" style:auto-text-indent="false">
+    <style:tab-stops>
+     <style:tab-stop style:position="0cm"/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="List_20_2" style:display-name="List 2" style:family="paragraph" style:parent-style-name="List" style:class="list">
+   <style:paragraph-properties fo:margin-left="1.27cm" fo:margin-right="0cm" fo:margin-top="0cm" fo:margin-bottom="0.212cm" loext:contextual-spacing="false" fo:text-indent="-0.635cm" style:auto-text-indent="false"/>
+  </style:style>
+  <style:style style:name="Heading_20_4" style:display-name="Heading 4" style:family="paragraph" style:parent-style-name="Heading" style:class="text"/>
+  <style:style style:name="Endnote" style:family="paragraph" style:parent-style-name="Standard" style:class="extra"/>
+  <style:style style:name="Numbering_20_Symbols" style:display-name="Numbering Symbols" style:family="text"/>
+  <style:style style:name="Internet_20_link" style:display-name="Internet link" style:family="text">
+   <style:text-properties fo:color="#000080" style:text-underline-style="solid" style:text-underline-width="auto" style:text-underline-color="font-color" style:language-asian="zxx" style:country-asian="none" style:language-complex="zxx" style:country-complex="none"/>
+  </style:style>
+  <style:style style:name="Index_20_Link" style:display-name="Index Link" style:family="text"/>
+  <style:style style:name="Strong_20_Emphasis" style:display-name="Strong Emphasis" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Main_20_index_20_entry" style:display-name="Main index entry" style:family="text">
+   <style:text-properties fo:font-weight="bold" style:font-weight-asian="bold" style:font-weight-complex="bold"/>
+  </style:style>
+  <style:style style:name="Bullet_20_Symbols" style:display-name="Bullet Symbols" style:family="text">
+   <style:text-properties style:font-name="OpenSymbol" fo:font-family="OpenSymbol" style:font-charset="x-symbol" style:font-name-asian="OpenSymbol" style:font-family-asian="OpenSymbol" style:font-charset-asian="x-symbol" style:font-name-complex="OpenSymbol" style:font-family-complex="OpenSymbol" style:font-charset-complex="x-symbol"/>
+  </style:style>
+  <style:style style:name="Footnote_20_Symbol" style:display-name="Footnote Symbol" style:family="text"/>
+  <style:style style:name="Footnote_20_anchor" style:display-name="Footnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="Endnote_20_Symbol" style:display-name="Endnote Symbol" style:family="text"/>
+  <style:style style:name="Endnote_20_anchor" style:display-name="Endnote anchor" style:family="text">
+   <style:text-properties style:text-position="super 58%"/>
+  </style:style>
+  <style:style style:name="OLE" style:family="graphic">
+   <style:graphic-properties text:anchor-type="paragraph" svg:x="0cm" svg:y="0cm" style:wrap="dynamic" style:number-wrapped-paragraphs="no-limit" style:wrap-contour="false" style:vertical-pos="top" style:vertical-rel="paragraph" style:horizontal-pos="center" style:horizontal-rel="paragraph"/>
+  </style:style>
+  <text:outline-style style:name="Outline">
+   <text:outline-level-style text:level="1" text:style-name="Numbering_20_Symbols" style:num-prefix=" " style:num-suffix=" " style:num-format="I">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="2" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="2">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="3" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="3">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="4" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="4">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="5" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="5">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="6" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="6">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="7" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="7">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="8" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="8">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="9" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="9">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+   <text:outline-level-style text:level="10" style:num-prefix=" " style:num-suffix=" " style:num-format="1" text:display-levels="10">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab"/>
+    </style:list-level-properties>
+   </text:outline-level-style>
+  </text:outline-style>
+  <text:list-style style:name="Numbering_20_1" style:display-name="Numbering 1">
+   <text:list-level-style-number text:level="1" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="0.499cm" fo:text-indent="-0.499cm" fo:margin-left="0.499cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="2" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1cm" fo:text-indent="-0.499cm" fo:margin-left="1cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="3" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.499cm" fo:text-indent="-0.499cm" fo:margin-left="1.499cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="4" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2cm" fo:text-indent="-0.499cm" fo:margin-left="2cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="5" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.499cm" fo:text-indent="-0.499cm" fo:margin-left="2.499cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="6" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3cm" fo:text-indent="-0.499cm" fo:margin-left="3cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="7" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.5cm" fo:text-indent="-0.499cm" fo:margin-left="3.5cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="8" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.001cm" fo:text-indent="-0.499cm" fo:margin-left="4.001cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="9" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.5cm" fo:text-indent="-0.499cm" fo:margin-left="4.5cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+   <text:list-level-style-number text:level="10" text:style-name="Numbering_20_Symbols" style:num-suffix="." style:num-format="1">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.001cm" fo:text-indent="-0.499cm" fo:margin-left="5.001cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-number>
+  </text:list-style>
+  <text:notes-configuration text:note-class="footnote" text:citation-style-name="Footnote_20_Symbol" text:citation-body-style-name="Footnote_20_anchor" style:num-format="1" text:start-value="0" text:footnotes-position="page" text:start-numbering-at="document"/>
+  <text:notes-configuration text:note-class="endnote" text:citation-style-name="Endnote_20_Symbol" text:citation-body-style-name="Endnote_20_anchor" text:master-page-name="Endnote" style:num-format="i" text:start-value="0"/>
+  <text:linenumbering-configuration text:number-lines="false" text:offset="0.499cm" style:num-format="1" text:number-position="left" text:increment="5"/>
+  <style:default-page-layout>
+   <style:page-layout-properties style:writing-mode="lr-tb" style:layout-grid-standard-mode="true"/>
+  </style:default-page-layout>
+ </office:styles>
+ <office:automatic-styles>
+  <style:style style:name="P1" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:paragraph-properties fo:margin-top="1.401cm" fo:margin-bottom="0.25cm" loext:contextual-spacing="false" fo:text-align="center" style:justify-single-word="false"/>
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00203ea4"/>
+  </style:style>
+  <style:style style:name="P2" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="6.001cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:background-color="transparent" style:writing-mode="page"/>
+  </style:style>
+  <style:style style:name="P3" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:background-color="transparent" style:shadow="none" style:writing-mode="page">
+    <style:drop-cap/>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P4" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties style:font-name="TheMix C51" fo:language="cs" fo:country="CZ" officeooo:rsid="007053f7" officeooo:paragraph-rsid="007053f7"/>
+  </style:style>
+  <style:style style:name="P5" style:family="paragraph" style:parent-style-name="Standard">
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false"/>
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="007053f7"/>
+  </style:style>
+  <style:style style:name="P6" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P7" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0022d88f" officeooo:paragraph-rsid="0022d88f"/>
+  </style:style>
+  <style:style style:name="P8" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006f205b" officeooo:paragraph-rsid="006f205b"/>
+  </style:style>
+  <style:style style:name="P9" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006f205b" officeooo:paragraph-rsid="009d07ad"/>
+  </style:style>
+  <style:style style:name="P10" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005655d4" officeooo:paragraph-rsid="005655d4"/>
+  </style:style>
+  <style:style style:name="P11" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005aa04c" officeooo:paragraph-rsid="008ab88d"/>
+  </style:style>
+  <style:style style:name="P12" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="008ab88d"/>
+  </style:style>
+  <style:style style:name="P13" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005bcec3" officeooo:paragraph-rsid="005c6215"/>
+  </style:style>
+  <style:style style:name="P14" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005bcec3" officeooo:paragraph-rsid="005bcec3"/>
+  </style:style>
+  <style:style style:name="P15" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005c6215" officeooo:paragraph-rsid="005c6215"/>
+  </style:style>
+  <style:style style:name="P16" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005c6215" officeooo:paragraph-rsid="005d8afe"/>
+  </style:style>
+  <style:style style:name="P17" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005d5843" officeooo:paragraph-rsid="005d5843"/>
+  </style:style>
+  <style:style style:name="P18" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005d8afe" officeooo:paragraph-rsid="005d8afe"/>
+  </style:style>
+  <style:style style:name="P19" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005ddd23" officeooo:paragraph-rsid="005ddd23"/>
+  </style:style>
+  <style:style style:name="P20" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="002ee2b8" officeooo:paragraph-rsid="005ddd23"/>
+  </style:style>
+  <style:style style:name="P21" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="002ee2b8" officeooo:paragraph-rsid="002ee2b8"/>
+  </style:style>
+  <style:style style:name="P22" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0067fa25" officeooo:paragraph-rsid="00940dc4"/>
+  </style:style>
+  <style:style style:name="P23" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0067fa25" officeooo:paragraph-rsid="0067fa25"/>
+  </style:style>
+  <style:style style:name="P24" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0067fa25" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P25" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0069393a" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P26" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0069393a" officeooo:paragraph-rsid="0069393a"/>
+  </style:style>
+  <style:style style:name="P27" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0069393a" officeooo:paragraph-rsid="0095379e"/>
+  </style:style>
+  <style:style style:name="P28" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006ab800" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P29" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006ab800" officeooo:paragraph-rsid="006ab800"/>
+  </style:style>
+  <style:style style:name="P30" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006b1066" officeooo:paragraph-rsid="006b1066"/>
+  </style:style>
+  <style:style style:name="P31" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P32" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006548e7" officeooo:paragraph-rsid="006548e7"/>
+  </style:style>
+  <style:style style:name="P33" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006692ec" officeooo:paragraph-rsid="006692ec"/>
+  </style:style>
+  <style:style style:name="P34" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0062df09" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P35" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00648288" officeooo:paragraph-rsid="00648288"/>
+  </style:style>
+  <style:style style:name="P36" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00648288" officeooo:paragraph-rsid="0064cc3a"/>
+  </style:style>
+  <style:style style:name="P37" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0064cc3a" officeooo:paragraph-rsid="0064cc3a"/>
+  </style:style>
+  <style:style style:name="P38" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="006c22e8"/>
+  </style:style>
+  <style:style style:name="P39" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00978af4"/>
+  </style:style>
+  <style:style style:name="P40" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006ed991" officeooo:paragraph-rsid="006ed991"/>
+  </style:style>
+  <style:style style:name="P41" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00245a44" officeooo:paragraph-rsid="00245a44"/>
+  </style:style>
+  <style:style style:name="P42" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00905fb1"/>
+  </style:style>
+  <style:style style:name="P43" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0027aa05" officeooo:paragraph-rsid="005655d4"/>
+  </style:style>
+  <style:style style:name="P44" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="008a480b"/>
+  </style:style>
+  <style:style style:name="P45" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="002ed661" officeooo:paragraph-rsid="002ed661"/>
+  </style:style>
+  <style:style style:name="P46" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="007443c4" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P47" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="007443c4" officeooo:paragraph-rsid="00828500"/>
+  </style:style>
+  <style:style style:name="P48" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0075df50" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P49" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0080a8ae" officeooo:paragraph-rsid="00828500"/>
+  </style:style>
+  <style:style style:name="P50" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="0081cfba"/>
+  </style:style>
+  <style:style style:name="P51" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0081cfba" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P52" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="008af0ab" officeooo:paragraph-rsid="008af0ab"/>
+  </style:style>
+  <style:style style:name="P53" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="009e915e"/>
+  </style:style>
+  <style:style style:name="P54" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="007a4783" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P55" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a2d436" officeooo:paragraph-rsid="00a2d436"/>
+  </style:style>
+  <style:style style:name="P56" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a571be" officeooo:paragraph-rsid="00a571be"/>
+  </style:style>
+  <style:style style:name="P57" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00a6dbca" officeooo:paragraph-rsid="00a6dbca"/>
+  </style:style>
+  <style:style style:name="P58" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00ab7c68" officeooo:paragraph-rsid="00ab7c68"/>
+  </style:style>
+  <style:style style:name="P59" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties officeooo:rsid="00ad1ff8" officeooo:paragraph-rsid="00ad1ff8"/>
+  </style:style>
+  <style:style style:name="P60" style:family="paragraph" style:parent-style-name="Standard" style:master-page-name="">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="8.999cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" style:page-number="auto" fo:background-color="transparent" style:shadow="none" style:writing-mode="page">
+    <style:drop-cap/>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P61" style:family="paragraph" style:parent-style-name="Subtitle">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P62" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P63" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006692ec" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P64" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0067fa25" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P65" style:family="paragraph" style:parent-style-name="Heading_20_4">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00739358"/>
+  </style:style>
+  <style:style style:name="P66" style:family="paragraph" style:parent-style-name="Quotations">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P67" style:family="paragraph" style:parent-style-name="Contents_20_1">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P68" style:family="paragraph" style:parent-style-name="Contents_20_2">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P69" style:family="paragraph" style:parent-style-name="Contents_20_3">
+   <style:paragraph-properties>
+    <style:tab-stops>
+     <style:tab-stop style:position="17cm" style:type="right" style:leader-style="dotted" style:leader-text="."/>
+    </style:tab-stops>
+   </style:paragraph-properties>
+  </style:style>
+  <style:style style:name="P70" style:family="paragraph" style:parent-style-name="Standard">
+   <loext:graphic-properties draw:fill="none"/>
+   <style:paragraph-properties fo:margin-top="0cm" fo:margin-bottom="0cm" loext:contextual-spacing="false" fo:text-align="end" style:justify-single-word="false" fo:break-before="page" fo:background-color="transparent" style:shadow="none" style:writing-mode="page">
+    <style:drop-cap/>
+   </style:paragraph-properties>
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P71" style:family="paragraph" style:parent-style-name="Heading" style:master-page-name="">
+   <style:paragraph-properties fo:margin-top="3cm" fo:margin-bottom="0.21cm" loext:contextual-spacing="false" style:page-number="auto"/>
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P72" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005bcec3" officeooo:paragraph-rsid="008af0ab"/>
+  </style:style>
+  <style:style style:name="P73" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005655d4" officeooo:paragraph-rsid="005655d4"/>
+  </style:style>
+  <style:style style:name="P74" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L1">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005655d4" officeooo:paragraph-rsid="005aa04c"/>
+  </style:style>
+  <style:style style:name="P75" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L2">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="005f78d2"/>
+  </style:style>
+  <style:style style:name="P76" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P77" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00940dc4"/>
+  </style:style>
+  <style:style style:name="P78" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P79" style:family="paragraph" style:parent-style-name="Text_20_body" style:list-style-name="L4">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="00940dc4"/>
+  </style:style>
+  <style:style style:name="P80" style:family="paragraph" style:parent-style-name="Text_20_body">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005622ca" officeooo:paragraph-rsid="005622ca"/>
+  </style:style>
+  <style:style style:name="P81" style:family="paragraph" style:parent-style-name="Title" style:master-page-name="First_20_Page">
+   <style:paragraph-properties fo:margin-top="2.701cm" fo:margin-bottom="0.21cm" loext:contextual-spacing="false" style:page-number="auto"/>
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005bcec3" officeooo:paragraph-rsid="006d7b07"/>
+  </style:style>
+  <style:style style:name="P82" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P83" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="005bcec3"/>
+  </style:style>
+  <style:style style:name="P84" style:family="paragraph" style:parent-style-name="Heading_20_2">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P85" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P86" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="005622ca" officeooo:paragraph-rsid="005622ca"/>
+  </style:style>
+  <style:style style:name="P87" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="008a480b"/>
+  </style:style>
+  <style:style style:name="P88" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="006548e7" officeooo:paragraph-rsid="006548e7"/>
+  </style:style>
+  <style:style style:name="P89" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P90" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0078d870" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P91" style:family="paragraph" style:parent-style-name="Heading_20_3">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="007a4783" officeooo:paragraph-rsid="007a4783"/>
+  </style:style>
+  <style:style style:name="P92" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="P93" style:family="paragraph" style:parent-style-name="Heading_20_1">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0027aa05" officeooo:paragraph-rsid="0027aa05"/>
+  </style:style>
+  <style:style style:name="T1" style:family="text">
+   <style:text-properties officeooo:rsid="005d8afe"/>
+  </style:style>
+  <style:style style:name="T2" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ"/>
+  </style:style>
+  <style:style style:name="T3" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="0027aa05"/>
+  </style:style>
+  <style:style style:name="T4" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00a394e5"/>
+  </style:style>
+  <style:style style:name="T5" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00a5075e"/>
+  </style:style>
+  <style:style style:name="T6" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00a571be"/>
+  </style:style>
+  <style:style style:name="T7" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00a62f52"/>
+  </style:style>
+  <style:style style:name="T8" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00a6dbca"/>
+  </style:style>
+  <style:style style:name="T9" style:family="text">
+   <style:text-properties fo:language="cs" fo:country="CZ" officeooo:rsid="00ae1118"/>
+  </style:style>
+  <style:style style:name="T10" style:family="text">
+   <style:text-properties style:font-name="TheMix C51"/>
+  </style:style>
+  <style:style style:name="T11" style:family="text">
+   <style:text-properties style:font-name="TheMix C51" officeooo:rsid="007053f7"/>
+  </style:style>
+  <style:style style:name="T12" style:family="text">
+   <style:text-properties officeooo:rsid="005622ca"/>
+  </style:style>
+  <style:style style:name="T13" style:family="text">
+   <style:text-properties officeooo:rsid="005170ab"/>
+  </style:style>
+  <style:style style:name="T14" style:family="text">
+   <style:text-properties officeooo:rsid="005655d4"/>
+  </style:style>
+  <style:style style:name="T15" style:family="text">
+   <style:text-properties officeooo:rsid="008a480b"/>
+  </style:style>
+  <style:style style:name="T16" style:family="text">
+   <style:text-properties officeooo:rsid="005aa04c"/>
+  </style:style>
+  <style:style style:name="T17" style:family="text">
+   <style:text-properties officeooo:rsid="008e05e7"/>
+  </style:style>
+  <style:style style:name="T18" style:family="text">
+   <style:text-properties officeooo:rsid="005d5843"/>
+  </style:style>
+  <style:style style:name="T19" style:family="text">
+   <style:text-properties fo:font-style="italic" officeooo:rsid="005d5843" style:font-style-asian="italic" style:font-style-complex="italic"/>
+  </style:style>
+  <style:style style:name="T20" style:family="text">
+   <style:text-properties officeooo:rsid="005ddd23"/>
+  </style:style>
+  <style:style style:name="T21" style:family="text">
+   <style:text-properties officeooo:rsid="004f97df"/>
+  </style:style>
+  <style:style style:name="T22" style:family="text">
+   <style:text-properties officeooo:rsid="005f78d2"/>
+  </style:style>
+  <style:style style:name="T23" style:family="text">
+   <style:text-properties officeooo:rsid="0069393a"/>
+  </style:style>
+  <style:style style:name="T24" style:family="text">
+   <style:text-properties officeooo:rsid="006ab800"/>
+  </style:style>
+  <style:style style:name="T25" style:family="text">
+   <style:text-properties officeooo:rsid="006548e7"/>
+  </style:style>
+  <style:style style:name="T26" style:family="text">
+   <style:text-properties officeooo:rsid="0067fa25"/>
+  </style:style>
+  <style:style style:name="T27" style:family="text">
+   <style:text-properties officeooo:rsid="00611530"/>
+  </style:style>
+  <style:style style:name="T28" style:family="text">
+   <style:text-properties officeooo:rsid="006b1066"/>
+  </style:style>
+  <style:style style:name="T29" style:family="text">
+   <style:text-properties officeooo:rsid="006c22e8"/>
+  </style:style>
+  <style:style style:name="T30" style:family="text">
+   <style:text-properties officeooo:rsid="006c474b"/>
+  </style:style>
+  <style:style style:name="T31" style:family="text">
+   <style:text-properties officeooo:rsid="006d7b07"/>
+  </style:style>
+  <style:style style:name="T32" style:family="text">
+   <style:text-properties officeooo:rsid="006ed991"/>
+  </style:style>
+  <style:style style:name="T33" style:family="text">
+   <style:text-properties officeooo:rsid="006f205b"/>
+  </style:style>
+  <style:style style:name="T34" style:family="text">
+   <style:text-properties officeooo:rsid="00214f48"/>
+  </style:style>
+  <style:style style:name="T35" style:family="text">
+   <style:text-properties officeooo:rsid="0022d88f"/>
+  </style:style>
+  <style:style style:name="T36" style:family="text">
+   <style:text-properties officeooo:rsid="004c9ff8"/>
+  </style:style>
+  <style:style style:name="T37" style:family="text">
+   <style:text-properties officeooo:rsid="005bcec3"/>
+  </style:style>
+  <style:style style:name="T38" style:family="text">
+   <style:text-properties officeooo:rsid="0064cc3a"/>
+  </style:style>
+  <style:style style:name="T39" style:family="text">
+   <style:text-properties officeooo:rsid="00739358"/>
+  </style:style>
+  <style:style style:name="T40" style:family="text">
+   <style:text-properties officeooo:rsid="0075df50"/>
+  </style:style>
+  <style:style style:name="T41" style:family="text">
+   <style:text-properties officeooo:rsid="0076fb8b"/>
+  </style:style>
+  <style:style style:name="T42" style:family="text">
+   <style:text-properties officeooo:rsid="007bd752"/>
+  </style:style>
+  <style:style style:name="T43" style:family="text">
+   <style:text-properties officeooo:rsid="0080a8ae"/>
+  </style:style>
+  <style:style style:name="T44" style:family="text">
+   <style:text-properties officeooo:rsid="0081cfba"/>
+  </style:style>
+  <style:style style:name="T45" style:family="text">
+   <style:text-properties officeooo:rsid="0088b29b"/>
+  </style:style>
+  <style:style style:name="T46" style:family="text">
+   <style:text-properties officeooo:rsid="008ab88d"/>
+  </style:style>
+  <style:style style:name="T47" style:family="text">
+   <style:text-properties officeooo:rsid="008c19f6"/>
+  </style:style>
+  <style:style style:name="T48" style:family="text">
+   <style:text-properties officeooo:rsid="008f146c"/>
+  </style:style>
+  <style:style style:name="T49" style:family="text">
+   <style:text-properties officeooo:rsid="00905fb1"/>
+  </style:style>
+  <style:style style:name="T50" style:family="text">
+   <style:text-properties officeooo:rsid="00922d97"/>
+  </style:style>
+  <style:style style:name="T51" style:family="text">
+   <style:text-properties officeooo:rsid="00940dc4"/>
+  </style:style>
+  <style:style style:name="T52" style:family="text">
+   <style:text-properties officeooo:rsid="0095379e"/>
+  </style:style>
+  <style:style style:name="T53" style:family="text">
+   <style:text-properties officeooo:rsid="009608e1"/>
+  </style:style>
+  <style:style style:name="T54" style:family="text">
+   <style:text-properties officeooo:rsid="00960e37"/>
+  </style:style>
+  <style:style style:name="T55" style:family="text">
+   <style:text-properties officeooo:rsid="0096fecf"/>
+  </style:style>
+  <style:style style:name="T56" style:family="text">
+   <style:text-properties officeooo:rsid="00978af4"/>
+  </style:style>
+  <style:style style:name="T57" style:family="text">
+   <style:text-properties officeooo:rsid="00990418"/>
+  </style:style>
+  <style:style style:name="T58" style:family="text">
+   <style:text-properties officeooo:rsid="00993149"/>
+  </style:style>
+  <style:style style:name="T59" style:family="text">
+   <style:text-properties style:text-position="0% 100%" officeooo:rsid="00993149"/>
+  </style:style>
+  <style:style style:name="T60" style:family="text">
+   <style:text-properties officeooo:rsid="009a5deb"/>
+  </style:style>
+  <style:style style:name="T61" style:family="text">
+   <style:text-properties officeooo:rsid="009bdf19"/>
+  </style:style>
+  <style:style style:name="T62" style:family="text">
+   <style:text-properties officeooo:rsid="009d07ad"/>
+  </style:style>
+  <style:style style:name="T63" style:family="text">
+   <style:text-properties officeooo:rsid="009e915e"/>
+  </style:style>
+  <style:style style:name="T64" style:family="text">
+   <style:text-properties officeooo:rsid="00a62f52"/>
+  </style:style>
+  <style:style style:name="T65" style:family="text">
+   <style:text-properties officeooo:rsid="00ab7c68"/>
+  </style:style>
+  <style:style style:name="T66" style:family="text">
+   <style:text-properties officeooo:rsid="00ad1ff8"/>
+  </style:style>
+  <style:style style:name="T67" style:family="text">
+   <style:text-properties officeooo:rsid="00ae1118"/>
+  </style:style>
+  <style:style style:name="Sect1" style:family="section">
+   <style:section-properties style:editable="false">
+    <style:columns fo:column-count="1" fo:column-gap="0cm"/>
+   </style:section-properties>
+  </style:style>
+  <text:list-style style:name="L1">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L2">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L3">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <text:list-style style:name="L4">
+   <text:list-level-style-bullet text:level="1" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.27cm" fo:text-indent="-0.635cm" fo:margin-left="1.27cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="2" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="1.905cm" fo:text-indent="-0.635cm" fo:margin-left="1.905cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="3" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="2.54cm" fo:text-indent="-0.635cm" fo:margin-left="2.54cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="4" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.175cm" fo:text-indent="-0.635cm" fo:margin-left="3.175cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="5" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="3.81cm" fo:text-indent="-0.635cm" fo:margin-left="3.81cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="6" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="4.445cm" fo:text-indent="-0.635cm" fo:margin-left="4.445cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="7" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.08cm" fo:text-indent="-0.635cm" fo:margin-left="5.08cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="8" text:style-name="Bullet_20_Symbols" text:bullet-char="◦">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="5.715cm" fo:text-indent="-0.635cm" fo:margin-left="5.715cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="9" text:style-name="Bullet_20_Symbols" text:bullet-char="▪">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.35cm" fo:text-indent="-0.635cm" fo:margin-left="6.35cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+   <text:list-level-style-bullet text:level="10" text:style-name="Bullet_20_Symbols" text:bullet-char="•">
+    <style:list-level-properties text:list-level-position-and-space-mode="label-alignment">
+     <style:list-level-label-alignment text:label-followed-by="listtab" text:list-tab-stop-position="6.985cm" fo:text-indent="-0.635cm" fo:margin-left="6.985cm"/>
+    </style:list-level-properties>
+   </text:list-level-style-bullet>
+  </text:list-style>
+  <style:page-layout style:name="pm1">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:layout-grid-color="#c0c0c0" style:layout-grid-lines="44" style:layout-grid-base-height="0.55cm" style:layout-grid-ruby-height="0cm" style:layout-grid-mode="none" style:layout-grid-ruby-below="false" style:layout-grid-print="true" style:layout-grid-display="true" style:layout-grid-base-width="0.37cm" style:layout-grid-snap-to="true" style:footnote-max-height="0cm">
+    <style:footnote-sep style:width="0.018cm" style:distance-before-sep="0.101cm" style:distance-after-sep="0.101cm" style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+  <style:page-layout style:name="pm2">
+   <style:page-layout-properties fo:page-width="21.001cm" fo:page-height="29.7cm" style:num-format="1" style:print-orientation="portrait" fo:margin-top="2cm" fo:margin-bottom="2cm" fo:margin-left="2cm" fo:margin-right="2cm" style:writing-mode="lr-tb" style:footnote-max-height="0cm">
+    <style:footnote-sep style:line-style="solid" style:adjustment="left" style:rel-width="25%" style:color="#000000"/>
+   </style:page-layout-properties>
+   <style:header-style/>
+   <style:footer-style/>
+  </style:page-layout>
+ </office:automatic-styles>
+ <office:master-styles>
+  <style:master-page style:name="Standard" style:page-layout-name="pm1" style:next-style-name="First_20_Page"/>
+  <style:master-page style:name="First_20_Page" style:display-name="First Page" style:page-layout-name="pm1" style:next-style-name="Standard"/>
+  <style:master-page style:name="Endnote" style:page-layout-name="pm2"/>
+ </office:master-styles>
+ <office:body>
+  <office:text text:use-soft-page-breaks="true">
+   <office:forms form:automatic-focus="false" form:apply-design-mode="false"/>
+   <text:sequence-decls>
+    <text:sequence-decl text:display-outline-level="0" text:name="Illustration"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Table"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Text"/>
+    <text:sequence-decl text:display-outline-level="0" text:name="Drawing"/>
+   </text:sequence-decls>
+   <text:p text:style-name="P81">„Zubři jedou do Džungle“</text:p>
+   <text:p text:style-name="P61">Vůdcovská práce VLK Gong 2017</text:p>
+   <text:p text:style-name="P1">26. – 29. října</text:p>
+   <text:p text:style-name="P60"/>
+   <text:p text:style-name="P2"><text:span text:style-name="T2">Filip Životský – 18.9.2017</text:span></text:p>
+   <text:p text:style-name="P70"/>
+   <text:table-of-content text:style-name="Sect1" text:protected="true" text:name="Obsah1">
+    <text:table-of-content-source text:outline-level="10">
+     <text:index-title-template text:style-name="Contents_20_Heading">Obsah</text:index-title-template>
+     <text:table-of-content-entry-template text:outline-level="1" text:style-name="Contents_20_1">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="2" text:style-name="Contents_20_2">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="3" text:style-name="Contents_20_3">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="4" text:style-name="Contents_20_4">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="5" text:style-name="Contents_20_5">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="6" text:style-name="Contents_20_6">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="7" text:style-name="Contents_20_7">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="8" text:style-name="Contents_20_8">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="9" text:style-name="Contents_20_9">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+     <text:table-of-content-entry-template text:outline-level="10" text:style-name="Contents_20_10">
+      <text:index-entry-link-start text:style-name="Index_20_Link"/>
+      <text:index-entry-chapter/>
+      <text:index-entry-text/>
+      <text:index-entry-tab-stop style:type="right" style:leader-char="."/>
+      <text:index-entry-page-number/>
+      <text:index-entry-link-end/>
+     </text:table-of-content-entry-template>
+    </text:table-of-content-source>
+    <text:index-body>
+     <text:index-title text:style-name="Sect1" text:name="Obsah1_Head">
+      <text:p text:style-name="Contents_20_Heading">Obsah</text:p>
+     </text:index-title>
+     <text:p text:style-name="P67"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc111_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I Teorie<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc8377_2117331360" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.1 Úvod<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc105_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.2 Seznámení s mým oddílem<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc113_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.2.1 Složení účastníku<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc115_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.2.2 Složení vedení<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc117_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.3 Vize<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc119_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.4 Výchovně–vzdělávací cíle<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc121_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.4.1 Seznámit účastníky se symbolickým rámcem Knihy džunglí<text:tab/>3</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc123_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.4.2 Ukázat a vyzkoušet rituály spojené s Knihou džunglí<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc480_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.4.3 Připravit se na účast v Závodu vlčat a světlušek<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc125_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.5 Prostředky k naplnění cílů<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc512_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.6 Reálný scénář akce<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc514_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.6.1 Pátek<text:tab/>4</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc516_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.6.2 Sobota<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc518_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.6.3 Neděle<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc127_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.7 Bezpečnost akce<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc129_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>I.8 Červená nit<text:tab/>5</text:a></text:p>
+     <text:p text:style-name="P67"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc131_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II Realizace<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc133_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.1 Technické zázemí ubytování, doprava, vybavení ...<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc135_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.2 Jídelníček na akci<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc520_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.2.1 Pátek<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc522_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.2.2 Sobota<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc524_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.2.3 Neděle<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc137_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.3 Rozpočet<text:tab/>6</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc139_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.4 Aktivity<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc526_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.4.1 Společné vaření<text:tab/>7</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc482_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.4.2 Velké vytí<text:tab/>8</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc484_1752002175" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.4.3 Poradní skála<text:tab/>9</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc141_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>II.4.4 Aktivity ze stezky<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P67"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc143_2606892726" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III Zhodnocení celé výpravy<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc720_1312699899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.1 Vlastní hodnocení<text:tab/>10</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc722_1312699899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.2 Zpětná vazba od vlčat<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc724_1312699899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.3 Zpětná vazba od Agenta<text:tab/>11</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc726_1312699899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.3.1 Lesní procházka<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc728_1312699899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.3.2 Vaření<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P69"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc730_1312699899" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.3.3 Cesta zpět<text:tab/>12</text:a></text:p>
+     <text:p text:style-name="P68"><text:a xlink:type="simple" xlink:href="#__RefHeading___Toc8379_2117331360" text:style-name="Index_20_Link" text:visited-style-name="Index_20_Link"><text:s/>III.4 Co dál?<text:tab/>12</text:a></text:p>
+    </text:index-body>
+   </text:table-of-content>
+   <text:p text:style-name="P71">Poděkování</text:p>
+   <text:p text:style-name="P5"><text:span text:style-name="T11">R</text:span><text:span text:style-name="T10">ád </text:span><text:span text:style-name="T11">bych </text:span><text:span text:style-name="T10">poděkoval </text:span><text:span text:style-name="T11">Janovi,</text:span><text:span text:style-name="T10"> vedoucímu práce, </text:span><text:span text:style-name="T11">Agentovi, který se mnou na výpravu jel, Andě za její připomínky a korektury, Orlu jednotě Telnice za zapůjčení prostor a materiálu, a také všem, kteří mi byli nápomocní.</text:span></text:p>
+   <text:p text:style-name="P4"><text:soft-page-break/></text:p>
+   <text:h text:style-name="P93" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc111_2606892726"/>Teorie<text:bookmark-end text:name="__RefHeading___Toc111_2606892726"/></text:h>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8377_2117331360"/><text:span text:style-name="T3">Ú</text:span><text:span text:style-name="T2">vod</text:span><text:bookmark-end text:name="__RefHeading___Toc8377_2117331360"/></text:h>
+   <text:p text:style-name="P55"><text:span text:style-name="T2">Jako vůdcovskou práci jsem původně </text:span><text:span text:style-name="T4">dělal</text:span><text:span text:style-name="T2"> výpravu pro Rovery a Rangers z našeho střediska, </text:span><text:span text:style-name="T5">se kterými jsem byl na Obroku. M</text:span><text:span text:style-name="T6">n</text:span><text:span text:style-name="T5">ě samotnému v našem středisku možnost </text:span><text:span text:style-name="T6">účasti v Roverském kmeni scházela a mám pocit, že </text:span><text:span text:style-name="T8">mi</text:span><text:span text:style-name="T6"> zkušenosti z takové činnosti </text:span><text:span text:style-name="T9">chybí</text:span><text:span text:style-name="T6">. Plánoval jsem na výpravě vytvořit prostor pro formaci takového kmene, nicméně se </text:span><text:span text:style-name="T9">mi</text:span><text:span text:style-name="T6"> nepodařilo sehnat účastníky. Všichni jsou o 5-7 let mladší než já a nemám</text:span><text:span text:style-name="T9">e</text:span><text:span text:style-name="T6"> spolu vybudovaný vztah, který by </text:span><text:span text:style-name="T9">mi</text:span><text:span text:style-name="T6"> umožnil efektivně je přesvědčit k účasti. Nakonec se tedy výprava pro nezájem nekonala.</text:span></text:p>
+   <text:p text:style-name="P56"><text:span text:style-name="T2">Poté co jsem si uvědomil, že Roverská výprava nev</text:span><text:span text:style-name="T8">y</text:span><text:span text:style-name="T2">jde, jsem vybral </text:span><text:span text:style-name="T7">nejzazší</text:span><text:span text:style-name="T2"> možný termín a začal plánovat výpravu pro vlčata, která vedu. </text:span><text:span text:style-name="T8">Vlčata jsem si vybral s ohledem na to, že výpravu jsem naplánoval poměrně na poslední chvíli – vlčat mám ve smečce dost a vídám se s nimi každý týden, tudíž nebyl problém je pozvat a zajistit dostatečnou účast.</text:span></text:p>
+   <text:p text:style-name="P57"><text:span text:style-name="T8">Z</text:span><text:span text:style-name="T2">ároveň jsem byl letos na „Poradní skále“, akci pro vedoucí vlčat a světlušek, a chtěl jsem nějak využít zkušenosti, které jsem tam získal</text:span><text:span text:style-name="T9"> - p</text:span><text:span text:style-name="T2">ro to je víkendová akce s vlčaty, která vedu, ideální příležitost.</text:span></text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc105_2606892726"/><text:span text:style-name="T34">S</text:span>eznámení s <text:span text:style-name="T34">mým </text:span>oddílem<text:bookmark-end text:name="__RefHeading___Toc105_2606892726"/></text:h>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc113_2606892726"/>Složení účastníku<text:bookmark-end text:name="__RefHeading___Toc113_2606892726"/></text:h>
+   <text:p text:style-name="P7">Jako účastníky jsem si vybral <text:span text:style-name="T12">družinu Zubrů, které vedu. Jde o asi 15 vlčat převážně ve věku kolem 8 let. Přibližně polovina z nich jsou letošními nováčky.</text:span></text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc115_2606892726"/>Složení vedení<text:bookmark-end text:name="__RefHeading___Toc115_2606892726"/></text:h>
+   <text:p text:style-name="P7">Já <text:span text:style-name="T64">pojedu </text:span>jako hlavní organizátor <text:span text:style-name="T12">a zdravotník.</text:span></text:p>
+   <text:p text:style-name="P7">Agent <text:span text:style-name="T64">se přidá </text:span>jako <text:span text:style-name="T12">pomocný</text:span> vedoucí především <text:span text:style-name="T12">na hry a vaření</text:span>. Má zdravotnický kurz, vede dvě družiny vlčat. <text:span text:style-name="T16">Přijede až v sobotu ráno.</text:span></text:p>
+   <text:p text:style-name="P8">Na původní výpravu jsem počítal i s Andou, ale kvůli změně termínu výpravy se nemohla zúčastnit.</text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc117_2606892726"/><text:span text:style-name="T34">V</text:span>ize<text:bookmark-end text:name="__RefHeading___Toc117_2606892726"/></text:h>
+   <text:p text:style-name="P41">Tato akce <text:span text:style-name="T12">by měla ukázat možnosti rituálů pro vlčata. Je příležitostí pro praktické ověření fungování rituálů v rámci našich možností. Zároveň slouží pro stmelení družiny, ve které je mnoho nováčků, a příprava na Závod vlčat a světlušek.</text:span></text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc119_2606892726"/>Výchovně–vzdělávací cíle<text:bookmark-end text:name="__RefHeading___Toc119_2606892726"/></text:h>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc121_2606892726"/><text:span text:style-name="T13">Seznámit</text:span> účastník<text:span text:style-name="T13">y</text:span> <text:span text:style-name="T13">se symbolickým rámcem Knihy džunglí</text:span><text:bookmark-end text:name="__RefHeading___Toc121_2606892726"/></text:h>
+   <text:p text:style-name="P42">V současnosti <text:span text:style-name="T12">není v našem oddíle obvyklé pracovat s vlčaty v rámci příběhů ani symbolického rámce. <text:s/>Chci pomocí rámce posílit propojení mezi stezkou a běžnou praxí při činnosti, seznámit vl­čata s Knihou džunglí – s příběhy o Mauglím, na které mohla narazit při listování svými stezkami.</text:span></text:p>
+   <text:p text:style-name="P6"><text:soft-page-break/><text:span text:style-name="T12">Cílem je ukázat a nabídnout účastníkům (i vedoucím) možnosti symbolického rámce Knihy džunglí <text:s/>a zaujmout je pro něj.</text:span></text:p>
+   <text:h text:style-name="P86" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc123_2606892726"/>Ukázat a vyzkoušet rituály spojené s <text:span text:style-name="T45">K</text:span>nihou džunglí<text:bookmark-end text:name="__RefHeading___Toc123_2606892726"/></text:h>
+   <text:p text:style-name="P80">V rámci oddílu se příliš nepoužívají rituály nebo je jejich používání nahodilé. Domnívám se, že by používání rituálů, především přechodových, mohlo vyřešit některé problém<text:span text:style-name="T15">y,</text:span> se kterými se v současné době potýkáme.</text:p>
+   <text:p text:style-name="P43">Cílem je <text:span text:style-name="T14">vyzkoušet a ustanovit rituály.</text:span></text:p>
+   <text:h text:style-name="P87" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc480_1752002175"/>Připravit se na účast v <text:span text:style-name="T15">Z</text:span>ávodu <text:span text:style-name="T15">v</text:span>lčat <text:span text:style-name="T15">a s</text:span>větlušek<text:bookmark-end text:name="__RefHeading___Toc480_1752002175"/></text:h>
+   <text:p text:style-name="P44"><text:span text:style-name="T16">Závod vlčat a světlušek o putovní totem náčelníka a putovní vlajku náčelní má dle pravidel tyto cíle: </text:span></text:p>
+   <text:p text:style-name="P66">„a. Prožití radostného setkání s ostatními vlčaty a světluškami (podpora souná­ležitosti se skautským hnutím přesahující oddíl)</text:p>
+   <text:p text:style-name="P66">b. Zažití celodenní aktivity zasazené do symbolického rámce (podpora použí­vání symbolického rámce v oddílech)</text:p>
+   <text:p text:style-name="P66">c. Vyzkoušet si schopnost poradit si v situacích potřebných pro život v dnešním světě (podpora používání stezky vlčat a světlušek v oddílech)“</text:p>
+   <text:p text:style-name="P12"><text:span text:style-name="T16">Aby mohl Závod vlčat a světlušek plnit jeho cíle, j</text:span>e třeba, aby vlčata měla povědomí o své družině (viz a) a byla připravena na výzvy, které je mohou na závodě potkat (viz c).</text:p>
+   <text:p text:style-name="P11">Cílem <text:span text:style-name="T46">výpravy</text:span> je umožnit účastníkům vyzkoušet si spolupráci v družině a některé aktivity, kte­ré mohou být součástí <text:span text:style-name="T46">Z</text:span>ávodu <text:span text:style-name="T46">v</text:span>lčat <text:span text:style-name="T46">a </text:span>světlušek.</text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc125_2606892726"/>Prostředky k naplnění cílů<text:bookmark-end text:name="__RefHeading___Toc125_2606892726"/></text:h>
+   <text:p text:style-name="P52">K naplnění cílů jsem zvolil tyto prostředky:</text:p>
+   <text:list xml:id="list3396603822490857281" text:style-name="L1">
+    <text:list-item>
+     <text:p text:style-name="P72">Poslech příběhu a diskuse o postavách z něj.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P73">Hry spojené s postavami z knihy a na její téma.</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P74">Vyzkoušení Velkého vytí <text:span text:style-name="T16">jako uvítacího rituálu.</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P74"><text:span text:style-name="T37">Poradní skály</text:span> spojen<text:span text:style-name="T37">é</text:span> s totemovou holý.</text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P83" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc512_1752002175"/>Reálný scénář akce<text:bookmark-end text:name="__RefHeading___Toc512_1752002175"/></text:h>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc514_1752002175"/>Pátek<text:bookmark-end text:name="__RefHeading___Toc514_1752002175"/></text:h>
+   <text:p text:style-name="P13">Odjezd z <text:span text:style-name="T47">Ú</text:span>jezda <text:span text:style-name="T17">bude v</text:span> 17:03 <text:span text:style-name="T47">s</text:span> přestupem na vlak v Brně a na autobus v Hradčanech. <text:span text:style-name="T17">Do </text:span>Bystřice <text:span text:style-name="T20">nad Pernštejnem přijedeme v</text:span> 19:16, <text:span text:style-name="T17">poté</text:span> <text:span text:style-name="T17">nakoupíme</text:span> v Penny <text:span text:style-name="T47">marketu</text:span> a <text:span text:style-name="T17">odejdeme pěšky</text:span> na Bo­rovinku.</text:p>
+   <text:p text:style-name="P14"><text:span text:style-name="T17">Přijdeme</text:span> na Borovinku <text:span text:style-name="T17">v 21:30, následovat bude rozbalení věcí, dojedení jídla z domova a hygiena. Noční klid bude nejpozději v 22:30.</text:span></text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc516_1752002175"/><text:soft-page-break/>Sobota<text:bookmark-end text:name="__RefHeading___Toc516_1752002175"/></text:h>
+   <text:p text:style-name="P15">Budíček bude <text:span text:style-name="T17">v </text:span>7:00, n<text:span text:style-name="T17">á</text:span>sledovaný rozcvičkou a hygienou do 7:30. Příprava a konzumace snídaně <text:span text:style-name="T17">skončí v</text:span> 8:30. <text:span text:style-name="T18">Dopoledne proběhne ukázka Velkého vytí a hra na téma </text:span><text:span text:style-name="T19">smečka</text:span><text:span text:style-name="T18">, společný lov svači­ny. V 10:00 bude svačina, a poté zahájení příprav oběda. Obědvat budeme ve 12:30 a polední klid potrvá do 13:00.</text:span></text:p>
+   <text:p text:style-name="P17">Odpoledne <text:span text:style-name="T17">půjdeme </text:span>společn<text:span text:style-name="T17">ou</text:span> procházk<text:span text:style-name="T17">ou</text:span> okolní přírodou <text:span text:style-name="T17">a zakončíme ji</text:span> samostatným návratem zpět po malých skupinkách.</text:p>
+   <text:p text:style-name="P6">Po svačině <text:span text:style-name="T17">v </text:span>16:00 <text:span text:style-name="T17">bude následovat </text:span>sbírání a příprava dřeva na večerní oheň a příprava na <text:span text:style-name="T18">P</text:span>oradní skálu. Večeře <text:span text:style-name="T48">začne</text:span> v 18:30. Rituál <text:span text:style-name="T18">P</text:span>oradní skály <text:span text:style-name="T48">bude v čase </text:span>19:30 – 20:00, poté volný program u ohně nebo spánek.</text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc518_1752002175"/>Neděle<text:bookmark-end text:name="__RefHeading___Toc518_1752002175"/></text:h>
+   <text:p text:style-name="P16">Budíček <text:span text:style-name="T48">bude v </text:span>7:00, rozcvička a hygiena do 7:<text:span text:style-name="T1">20, p</text:span>říprava a konzumace snídaně do 8:<text:span text:style-name="T1">20</text:span>. <text:span text:style-name="T1">V 9:00 odejdeme na vlakovou zastávku. Po příchodu na zastávku bude čas na zpětnou vazbu s účastníky. <text:s/>V  11:30 odjedeme. Pří čekání v Brně od 13:07 od 15:06 se projdeme směrem na Špilberk. Do Újezda se vrátíme v 15:23.</text:span></text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc127_2606892726"/>Bezpečnost akce<text:bookmark-end text:name="__RefHeading___Toc127_2606892726"/></text:h>
+   <text:p text:style-name="P6">V pátek cestujeme po tmě. Hrozí ztracení se, kolize, případně strach ze tmy. Během cesty účastníci obdrží reflexní prvky, bude zajištěno koncové červené světlo a při pohybu po silnici, asi 2/3 cesty, se všichni společně drží lana (had Ká).</text:p>
+   <text:p text:style-name="P18">V sobotu <text:span text:style-name="T49">budeme </text:span>společné <text:span text:style-name="T49">vařit – to je</text:span> spojené s hromadným krájením i tepelnou úpravou. Krájení se provádí odděleně od tepelné úpravy a na obojí dohlíží konkrétní vedoucí, kte<text:span text:style-name="T20">rý</text:span> hlídá vlčata <text:span text:style-name="T49">a radí jim</text:span>.</text:p>
+   <text:p text:style-name="P19">Odpoledn<text:span text:style-name="T49">í</text:span> návrat na Borovinku v malých skupinkách <text:span text:style-name="T49">skýtá</text:span> velké riziko ztracení se. Každá sku­pinka bude <text:span text:style-name="T49">mít</text:span> ověřeně funkční telefon <text:span text:style-name="T49">s telefonním číslem </text:span>na vedoucího a bude jasně stanoven ča­sový limit pro zavolání. V každé skupince bude jasně určen<text:span text:style-name="T49">o</text:span> vedoucí <text:span text:style-name="T49">vlče</text:span>, které musí ostatní násle­dovat.</text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc129_2606892726"/>Červená nit<text:bookmark-end text:name="__RefHeading___Toc129_2606892726"/></text:h>
+   <text:p text:style-name="P10">Jako symbolický ráme<text:span text:style-name="T49">c</text:span> bude použit úvod <text:span text:style-name="T49">K</text:span>nihy džunglí <text:span text:style-name="T50">(příběhy o Mauglím)</text:span> a seznámení s ní.</text:p>
+   <text:p text:style-name="P10">V plánu je především vyprávění příběhu, tématické hry a rituály. </text:p>
+   <text:p text:style-name="P19">Příběh bude zajištěn pomocí audio knihy. Rituály jsou popsány v metodice „Stezka a symbolický rámec vlčat a světlušek“. Na <text:span text:style-name="T50">www.krizovatka.skaut.cz</text:span> je k dispozici stručný výtah z příběhu s pře­hledem postav.</text:p>
+   <text:h text:style-name="P92" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc131_2606892726"/><text:soft-page-break/>Realizace<text:bookmark-end text:name="__RefHeading___Toc131_2606892726"/></text:h>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc133_2606892726"/>Technické zázemí ubytování, doprava, vybavení ...<text:bookmark-end text:name="__RefHeading___Toc133_2606892726"/></text:h>
+   <text:p text:style-name="P45">Bydlet budeme v areálu Borovinka v blízkosti Bystřice nad Pernštejnem v „<text:span text:style-name="T14">kuchyňce</text:span>“<text:span text:style-name="T14">, místo i vy­bavení zapůjčí Orel jednota Telnice, vše domlouvá Anda, která je členem Orla.</text:span></text:p>
+   <text:p text:style-name="P10">K dispozici bude jedna místnost sloužící ke spaní i vaření.</text:p>
+   <text:p text:style-name="P20">Dopravov<text:span text:style-name="T36">a</text:span>t se budeme vlakem S2 do Brna, odtud <text:span text:style-name="T20">S3 do Hradčan, zde přestoupíme na autobus </text:span>do <text:span text:style-name="T37">Bystřice nad Pernštejnem,</text:span> a pak <text:span text:style-name="T20">zhruba 5</text:span> km pěšky.</text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc135_2606892726"/><text:span text:style-name="T35">J</text:span>ídelníček na akci<text:bookmark-end text:name="__RefHeading___Toc135_2606892726"/></text:h>
+   <text:p text:style-name="P21">Jídelníček bude zajišťovat A<text:span text:style-name="T14">gent</text:span>. Suroviny budeme nakupovat v <text:span text:style-name="T50">P</text:span>enny <text:span text:style-name="T50">marketu </text:span>v Bystřic<text:span text:style-name="T21">i nad Pernštejnem.</text:span></text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc520_1752002175"/>Pátek<text:bookmark-end text:name="__RefHeading___Toc520_1752002175"/></text:h>
+   <text:list xml:id="list2447572442538877846" text:style-name="L2">
+    <text:list-item>
+     <text:p text:style-name="P75">vlastní svačina</text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P75"><text:span text:style-name="T20">záložní </text:span>večeře <text:span text:style-name="T50">pro ty, kteří nemají večeři z domu</text:span> – <text:span text:style-name="T20">chleba a pomazánkové máslo</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc522_1752002175"/>Sobota<text:bookmark-end text:name="__RefHeading___Toc522_1752002175"/></text:h>
+   <text:list xml:id="list303338094344977272" text:style-name="L3">
+    <text:list-item>
+     <text:p text:style-name="P76"><text:span text:style-name="T51">s</text:span>nídaně – <text:span text:style-name="T22">chleba a rajče</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P77">svačina – <text:span text:style-name="T22">mrkev</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P76">oběd – <text:span text:style-name="T22">česneková polévka, omelety a pečené brambory</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P77">svačina – <text:span text:style-name="T22">jablko</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P76">večeře – <text:span text:style-name="T22">chléb a sýr</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc524_1752002175"/>Neděle<text:bookmark-end text:name="__RefHeading___Toc524_1752002175"/></text:h>
+   <text:list xml:id="list4890025174439619807" text:style-name="L4">
+    <text:list-item>
+     <text:p text:style-name="P78"><text:span text:style-name="T51">s</text:span>nídaně – <text:span text:style-name="T22">ovesné vločky s rozinkami v mléce</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P79">svačina – <text:span text:style-name="T22">jablko</text:span></text:p>
+    </text:list-item>
+    <text:list-item>
+     <text:p text:style-name="P78">oběd – chléb<text:span text:style-name="T22"> s pomazánkou</text:span></text:p>
+    </text:list-item>
+   </text:list>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc137_2606892726"/>Rozpočet<text:bookmark-end text:name="__RefHeading___Toc137_2606892726"/></text:h>
+   <text:p text:style-name="P6">P<text:span text:style-name="T51">lánované příjmy jsou účastnické poplatky ve výši</text:span> 300 Kč od každého <text:span text:style-name="T42">vlčete</text:span>.</text:p>
+   <text:p text:style-name="P6">Výdaje za jídlo 200 Kč, cestovné <text:span text:style-name="T42">tam i zpět </text:span>100 Kč <text:span text:style-name="T51">na jednoho účastníka.</text:span></text:p>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc139_2606892726"/><text:soft-page-break/>Aktivity<text:bookmark-end text:name="__RefHeading___Toc139_2606892726"/></text:h>
+   <text:h text:style-name="P88" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc526_1752002175"/>Společné vaření<text:bookmark-end text:name="__RefHeading___Toc526_1752002175"/></text:h>
+   <text:p text:style-name="P62">Cíle</text:p>
+   <text:p text:style-name="P22">Cílem bylo vyzkoušet si vaření jako takové, neboť je jednou z aktivit používaných při Závodu vlčat <text:span text:style-name="T51">a </text:span>světlušek, ale především také jednou z významných náplní výprav i táborů, jakožto i běžného života.</text:p>
+   <text:p text:style-name="P23">Sekundárním cílem <text:span text:style-name="T23">bylo vyzkoušet intenzivní spolupráci a koordinaci mezi členy družiny při plnění společného cíle.</text:span></text:p>
+   <text:p text:style-name="P62">Časová dotace a dramaturgie</text:p>
+   <text:p text:style-name="P25">Pro vaření oběda je vyhrazen čas od svačiny asi v 10:30 do začátku oběda ve 12:30 <text:span text:style-name="T51">s</text:span> rezervou času vyhrazeného pro oběd a n<text:span text:style-name="T51">á</text:span>sledujíc<text:span text:style-name="T51">í</text:span> polední klid do 13:30.</text:p>
+   <text:p text:style-name="P26">Vaření následuje po stmelení při <text:span text:style-name="T51">V</text:span>elké vytí a následující hře na společný lov, jehož je logickým vy­ústěním.</text:p>
+   <text:p text:style-name="P62">Prostředky a pomůcky</text:p>
+   <text:p text:style-name="P25">Použitými prostředky j<text:span text:style-name="T51">sou</text:span> vaření a komunikace při něm.</text:p>
+   <text:p text:style-name="P27">Kromě surovin, které nakoupíme v obchodě v Bystřici nad Pernštejnem, je všechno vybavení na místě. V <text:span text:style-name="T52">areálu</text:span> <text:span text:style-name="T52">se </text:span>každoročně pořádá <text:span text:style-name="T52">letní </text:span>tábor <text:span text:style-name="T52">a v </text:span>daných prostorách se <text:span text:style-name="T52">pro jeho účastníky při­pravuje jídlo</text:span>, takže vybavení je i v dostatečném počtu. Především škrabky na brambory, nože a prkénka. Vařit se dá na třech sporácích, dvou elektrických <text:span text:style-name="T52">a </text:span>jednom plynovém, k dispozici je jed­na elektrická trouba.</text:p>
+   <text:p text:style-name="P62">Průběh</text:p>
+   <text:p text:style-name="P25">Vařili jsme česnekovou polévku - k té bylo třeba jen pár brambor a kořenové zeleniny a největším dílem se vlčata můžou podílet na přípravě krut<text:span text:style-name="T52">o</text:span>nů.</text:p>
+   <text:p text:style-name="P26">Druhý chod jsou pečené brambory a vaječné omelety. Vlčata dostanou prostor při loupání a krájení brambor, a také při smažení cibule a omelet.</text:p>
+   <text:p text:style-name="P26">Nedílnou součástí je také společné prostírání stolu a úklid použitého nádobí po obědě.</text:p>
+   <text:p text:style-name="P62">Bezpečnost</text:p>
+   <text:p text:style-name="P25">Aktivitu hodnotím jako velmi rizikovou. Při loupání a krájení surovin hrozí řezná poranění, pro krá­jení bude přesně určený prostor na jídelním stole oddělen<text:span text:style-name="T52">ý</text:span> od ostatních příprav a celou dobu bude jeden z vedoucích přihlížet a pomáhat.</text:p>
+   <text:p text:style-name="P26">Největším rizikem je manipulace s horkým olejem, pánvemi a plechy. Při manipulaci s horkými předměty bude vždy pověřena konkrétní osoba a bude m<text:span text:style-name="T52">í</text:span>t dostatek manipulačního prostoru.<text:span text:style-name="T24"> Předem budou všichni upozorněni na možná rizika.</text:span></text:p>
+   <text:p text:style-name="P62"><text:soft-page-break/>Zhodnocení</text:p>
+   <text:p text:style-name="P28">Oběd se povedl výsledek, byl chutný a nebyl problém s množstvím ani časem. V první polovině se dařilo zapojit všechna vlčata, nicméně postupně <text:span text:style-name="T52">je </text:span>některé činnost omrzel<text:span text:style-name="T52">y,</text:span> a také množství možných dílčích úkonů klesal, takže na konci vaření se asi 1/3 vlčat již nezapojila.</text:p>
+   <text:p text:style-name="P29">Vlčata se poměrně ochotně zapojila při krájení a loupán<text:span text:style-name="T52">í, </text:span>nicméně k tepelným úpravám se dostalo jen několik vybraných, i tak ale většina vypadal<text:span text:style-name="T52">a,</text:span> že je vaření bavilo.</text:p>
+   <text:p text:style-name="P30">Vylepši<text:span text:style-name="T52">t </text:span>by se dala příprava receptu tak, aby vlčata mohla na základě napsaného postupu sama roz­hodnout co, kdy a jak budou připravovat – <text:span text:style-name="T52">tím,</text:span> že recept byl sepsán jen ve formě použitých surovin, měla vlčata jen omezené možnosti, jak ovlivnit výsledný produkt.</text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc482_1752002175"/>Velké vytí<text:bookmark-end text:name="__RefHeading___Toc482_1752002175"/></text:h>
+   <text:p text:style-name="P62">Cíle</text:p>
+   <text:p text:style-name="P31">Cílem bylo <text:span text:style-name="T25">zavedení vhodnějšího uvítacího rituálu pro vlčata a zapojení symbolického rámce do běžné činnosti.</text:span></text:p>
+   <text:p text:style-name="P62">Časová dotace a dramaturgie</text:p>
+   <text:p text:style-name="P33">Velkému vytí je vyhrazen <text:span text:style-name="T52">čas </text:span>cca 1,5 hodiny v sobotu dopoledne.</text:p>
+   <text:p text:style-name="P62">Prostředky a pomůcky</text:p>
+   <text:p text:style-name="P33">Použitými prostředky je symbolický rámec vlčat a prvky Knihy džunglí, <text:span text:style-name="T26">sborová recitace.</text:span></text:p>
+   <text:p text:style-name="P33">Pro realizaci je třeba jen scénář rituálu, viz <text:span text:style-name="T20">„Stezka a symbolický rámec vlčat <text:s/>a světlušek“.</text:span></text:p>
+   <text:p text:style-name="P63">Průběh</text:p>
+   <text:p text:style-name="P33">Rituál probíhal jako krátký dialog mezi smečkou a Akélou. Rituál zahajují vlčata v podřepu s ruka­ma na zemi. <text:span text:style-name="T26">Třikrát zavijí a poté sborově zvolají „Akélo, naší snahou nejlepší buď čin.“ poté vysko­čí a rukama naznačí vlčí uši. Akéla odpovídá: „Vy znáte zákon! Slyšte dobře vlci! V každý čas!“ Vl­čata odpovídají slovy: „Dokud zákon džungle řídí nás! Jsme jedné krve ty i já.“. Poté následuje dru­žinový pokřik, případně Akélova promluva.</text:span></text:p>
+   <text:p text:style-name="P62">Bezpečnost</text:p>
+   <text:p text:style-name="P24">Aktivita nemá žádná významná rizika.</text:p>
+   <text:p text:style-name="P64">Zhodnocení</text:p>
+   <text:p text:style-name="P23">Velké vytí vlčata zaujalo a bavilo je, ale bylo problémové, aby si zapamatoval<text:span text:style-name="T52">a</text:span> svoji část dialogu, neboť se do té doby <text:span text:style-name="T52">příliš</text:span> nesetkával<text:span text:style-name="T52">a</text:span> s po<text:span text:style-name="T52">u</text:span>žitými reáliemi jako Akéla nebo zákon džungle. Zatím jsem nezhodnotil, zda vlčata vnímají znění textu, nicméně jako hravá stmelující aktivita napojená na symbolický rámec <text:span text:style-name="T52">K</text:span>nihy džunglí funguje <text:span text:style-name="T52">V</text:span>elké vytí dobře.</text:p>
+   <text:p text:style-name="P30">Při dalším používání rituálu by se mohla většina problémů vyřešit tím, že někteří účastníci již budou <text:span text:style-name="T52">mít</text:span> vytí zažité a lépe povedou ostatní.</text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc484_1752002175"/><text:soft-page-break/>Poradní skála<text:bookmark-end text:name="__RefHeading___Toc484_1752002175"/></text:h>
+   <text:p text:style-name="P62">Cíle</text:p>
+   <text:p text:style-name="P31">Cílem bylo <text:span text:style-name="T27">získat zážitek spojený s knihou džunglí a vyzkoušení jednoho z možných vlčáckých ri­tuálů. Během poradní skály došlo k rituálnímu přijetí nováčků a k potvrzení funkce šestníka.</text:span></text:p>
+   <text:p text:style-name="P35">Druhotným cílem aktivity je vyzkoušení si zapalování ohně .</text:p>
+   <text:p text:style-name="P62">Časová dotace <text:span text:style-name="T39">a dramaturgie</text:span></text:p>
+   <text:p text:style-name="P34">Poradní skála <text:span text:style-name="T53">je</text:span> v plánu jako vrchol celé výprav<text:span text:style-name="T53">y, j</text:span>ejí časová dotace <text:span text:style-name="T53">je</text:span> určena jen tím, <text:span text:style-name="T53">že začne</text:span> po večeři, čas potřebný na realizaci odhaduji na 20 minut.</text:p>
+   <text:p text:style-name="P35">Poradní skále předchází její příprava a večeře.</text:p>
+   <text:p text:style-name="P62">Prostředky <text:span text:style-name="T39">a pomůcky</text:span></text:p>
+   <text:p text:style-name="P35">Jako prostředek je využívána atmosféra. Především zapalování ohně a oheň jako takový, společný symbol družiny, Totemová hůl, poslech příběhu o <text:span text:style-name="T53">Poradní</text:span> skále při přijetí <text:span text:style-name="T53">M</text:span>auglího.</text:p>
+   <text:p text:style-name="P35">K realizace je třeba ohniště, dřevo a sirky (prostředky pro zapálení), totemová hůl, stužka a kámen pro každého účastníka <text:span text:style-name="T53">přehrávač a audio kniha.</text:span></text:p>
+   <text:p text:style-name="P65">Průběh</text:p>
+   <text:p text:style-name="P36">Nejdříve proběhlo příjímání.</text:p>
+   <text:p text:style-name="P36">Po zapálení ohně <text:span text:style-name="T53">P</text:span>oradní skála začíná velkým vytím, vi<text:span text:style-name="T53">z </text:span>výše. Následuje představení průběhu ri­tuálu Akélou. První částí poradní skály je rituál přijetí do smečky. Postupně je představen každý nováček a původní šestka je vyzvána k potvrzení k jeho přijetí. V případě námitek lze diskutovat nebo může zasáhnout Akéla a za nováčka se zaručit, viz Mauglí. Po potvrzení přijetí nováčka je daný člen vyzván, aby přivázal svoji stužku se jménem a rokem na společnou totemovou hůl. <text:span text:style-name="T38">Takto jsou postupně přijati všichni nováčci.</text:span></text:p>
+   <text:p text:style-name="P37">V druhé části následuje volba respektive potvrzení funkce šestníka. Akéla představí současného šestníka, osloví ho, zda je dále ochoten vykonávat svoji funkci, a poté jsou vyzvání ostatní členové, aby představil<text:span text:style-name="T53">i,</text:span> koho by chtěl<text:span text:style-name="T53">i</text:span> nominovat. Samotná volba probíhá disku<text:span text:style-name="T53">z</text:span>í s Akélou, který má pří­ležitost podpořit vybraného šestníka vlastními argumenty. Disku<text:span text:style-name="T54">zi</text:span> uzavírá Akéla a <text:span text:style-name="T53">Poradní </text:span>skála je zakončena družinovým pokřikem.</text:p>
+   <text:p text:style-name="P62">Bezpečnost</text:p>
+   <text:p text:style-name="P37">Největším rizikem je sociální vyloučení nechtěného nováčka, kterému by měla předcházet možnost zaručení se za nováčka. Druhým nebezpečí je oheň a rizika popálenin, těm lze předcházet poučením a dodržováním určených pravidel.</text:p>
+   <text:p text:style-name="P62">Zhodnocení</text:p>
+   <text:p text:style-name="P37">Při realizace se nepodařilo docílit společného zapalování především kvůli nepřízni počasí, mrholilo a bylo výzvou vůbec oheň zapálit.</text:p>
+   <text:p text:style-name="P32"><text:soft-page-break/>Fungovalo přijetí nováčků i diskuse o šestníkov<text:span text:style-name="T55">i,</text:span> ale někteří nováčci nebyl<text:span text:style-name="T55">i </text:span>dostatečně zaujati a měli tendenci vstupovat do rituálu vlastními poznámkami, domnívám se, že to bylo způsobeno po­četní převahou nováčků, a také tím, že byl rituál nový, a tak by nejspíš zasloužil podrobnější vy­světlení předem.</text:p>
+   <text:p text:style-name="P32">Zapomněl jsem přivést původní totemovou hůl, nicméně to nebyl <text:span text:style-name="T55">velký</text:span> problém, neboť do teď ne­byla příliš používána. Do budoucna by to ovšem chtělo ji vylepšit a umožnit ji stát se skutečným ri­tuálním předmětem.</text:p>
+   <text:h text:style-name="P85" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc141_2606892726"/><text:span text:style-name="T39">A</text:span>ktivit<text:span text:style-name="T39">y ze stezky</text:span><text:bookmark-end text:name="__RefHeading___Toc141_2606892726"/></text:h>
+   <text:p text:style-name="P6">V nováčkov<text:span text:style-name="T55">i (stezce)</text:span> <text:span text:style-name="T28">je v rámci „Vyzkouším si sám něco nového“ jedna z možností je příprava sva­činy do školy, to by bylo možné transformovat do přípravy svačiny na cestu zpět.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T29">V prvním stupni v ,,Nebojím se příro</text:span>dy“ je „A) postavím si v lese domeček“. <text:span text:style-name="T29">To by bylo možné navázat na symbolický rámec vlčat a všichni společně by si mohli v lese postavit „noru“.</text:span></text:p>
+   <text:p text:style-name="P38"><text:span text:style-name="T29">V druhé stupni stezky je v rámci „Kdo jsem“ a</text:span>ktivita „Sednu si na 5 minut na tiché klidné místo a se zavřenýma očima budu naslouchat okol<text:span text:style-name="T56">í“.</text:span> <text:span text:style-name="T29">To by bylo možné spojit s Poradní skálou a zařadit před jejím zahájením.</text:span></text:p>
+   <text:p text:style-name="P6"><text:span text:style-name="T30">Pro třetí stupeň by bylo možné takové zamyšlení na klidném místě zaměřit na </text:span>„Kdo vede naši šestku a co má umět?“, <text:span text:style-name="T30">a tím navázat na volbu šestníka.</text:span></text:p>
+   <text:h text:style-name="P92" text:outline-level="1"><text:bookmark-start text:name="__RefHeading___Toc143_2606892726"/>Zhodnocení celé výpravy<text:bookmark-end text:name="__RefHeading___Toc143_2606892726"/></text:h>
+   <text:h text:style-name="P82" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc720_1312699899"/>Vlastní hodnocení<text:bookmark-end text:name="__RefHeading___Toc720_1312699899"/></text:h>
+   <text:p text:style-name="P39">Z výpravy mám celkem dobrý pocit. <text:span text:style-name="T31">Naplnila se moje očekávání od běžné skautské výpravy a nena­staly žádné problémy. Nejvíce negativních pocitů mám spojených s tím, že jsem všechno chystal s výrazně menší časovou rezervou, než jsem běžně zvyklý. Zapříčinilo to především to, že jsem pů­vodně chtěl dělat výpravu pro R&amp;R, ale nepodařilo se mi na ni nalákat účastníky, a tak veškeré nadšení i energie, které jsem do ní vložil, chyběly při realizaci výpravy pro Zubry. Za běžných okolností bych si nechal po takovém nezdaru delší odstup, nicméně jsem potřeboval uspořádat vý­pravu v rámci vůdcovské práce, a tak jsem byl nucen na rychlo vymyslet alternativní plán a po­měrně dlouhou dobu mi trvalo, než jsem se sžil s myšlenkou nové výpravy. Na poslední chvíli mi navíc do plánu vstoupilo několik neočekávaných událostí, takže jsem některé detaily neměl dosta­tečně promyšlené. Nakonec možná největším problémem z praktického hlediska bylo to, že když jsem výp</text:span>ravu svolal relativně narychlo, měl <text:span text:style-name="T57">jsem </text:span>problém sehnat další vedoucí a nakonec jsem měl jen Agenta. <text:span text:style-name="T57">Ještě k tomu Agent</text:span> přijel až v sobotu ráno a předem měl jen harmonogram, detaily jsem mu sděloval až na místě.</text:p>
+   <text:p text:style-name="P6">Práce se symbolickým rámce<text:span text:style-name="T57">m</text:span> se poměrně povedla, cílem bylo především ukázat základní rysy pří­běhu a navnadit vlčata pro pokračování v plnění stezek, respektive v nich vyvolat zájem o příběh. Na výpravě jsme poslouchali audio knihu a myslím, že většinu vlčat zaujal<text:span text:style-name="T57">a</text:span>. V plánu jsem původně měl představit i konkrétní postavy z knihy, ale na to jsem nakonec nenašel <text:span text:style-name="T57">moc </text:span>prostor<text:span text:style-name="T57">u</text:span> a šlo spíš o představení základních protagonistů příběhu. <text:span text:style-name="T32">Na samotné propojení se stezkou nebo na plnění ak­tivit se nedostalo, ale na následující družinové schůzce bylo patrné, že nějaký efekt výprava měla.</text:span></text:p>
+   <text:p text:style-name="P40"><text:soft-page-break/>Velké vytí i <text:span text:style-name="T57">P</text:span>oradní skálu se zrealizovat podařilo. Velké vytí <text:span text:style-name="T57">mi</text:span> připadá uchopitelnější a shledávám v něm nějaký potenciál pro další používání. Vlčata, která se zúčastnila, měla sama od sebe tendenci rituál dál šířit a řekl bych, že má <text:span text:style-name="T58">V</text:span>elké vytí pozitivní vliv na soudržnost skupiny.</text:p>
+   <text:p text:style-name="P40">Proběhlá <text:span text:style-name="T59">P</text:span>oradní skála splnila svůj cíl, <text:span text:style-name="T58">n</text:span>icméně <text:span text:style-name="T58">mi</text:span> dělalo poměrně velký problém s tímto ná­strojem <text:span text:style-name="T60">p</text:span>racovat. <text:span text:style-name="T33">Příliš se nepodařilo provést rituál s dostatečnou vážností. Ale i přes jisté osobní rozpaky jsem vnímal, že rituál i přes svoji kostrbatost měl nějaký náboj a při dalším vylepšování a práci s ním by mohla Poradní skála plnit nějaký účel a stát se alespoň příležitostí pro přijetí nováč­ků. Na výpravě jsem zjistil, že nemám úplně jasno, při které příležitosti bych chtěl rituál používat a s čím bych ho chtěl spojit. Proběhlý rituál vnímám jako základní kámen, na němž je nyní možné za­čít stavět nějakou tradici, kterou bude však třeba ještě dobře promyslet.</text:span></text:p>
+   <text:p text:style-name="P9">Příprav<text:span text:style-name="T62">o</text:span>u na Závod vlčat <text:span text:style-name="T61">a </text:span>světlušek byla výprava jako celek a především však vaření a výlet po okolí. Co se týče vaření, myslím, že přínos, který mělo společné vaření oběda, stejnou měrou do­plnilo krájení chleba a příprava studených jídel, která je ostatně také náplní závodu. V tomto ohledu byla moje očekávání naplněna. Druhou aktivitou zaměřenou na Závod vlčat <text:span text:style-name="T61">a </text:span>světlušek byl výlet a návrat z něj s napojením na orientaci. Tento cíl se příliš nepodařilo naplnit především proto, že jsme <text:span text:style-name="T62">neměli</text:span> k dispozici mapu, a tak byl<text:span text:style-name="T62">a</text:span> vlčata odkázána jen na prostou orientaci v terénu bez interakce s mapou.</text:p>
+   <text:h text:style-name="P84" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc722_1312699899"/>Zpětná vazba od <text:span text:style-name="T40">vlčat</text:span><text:bookmark-end text:name="__RefHeading___Toc722_1312699899"/></text:h>
+   <text:p text:style-name="P46">Zpětnou vazbu od dětí jsem mimo průběžné sledování reakcí dělal až na konci výpravy při čekání na vlak. Neměl jsem předem stanoveno, co chci zjistit, mým cílem bylo zjistit, co vlčata vnímala jako zábavné a podstatné. Jako formu jsem zvolil přímou disku<text:span text:style-name="T63">z</text:span>i s tím, že jsem se snažil reagovat a Agenta jsem požádal o to, jestli by mohl dělat nějaký písemný záznam.</text:p>
+   <text:p text:style-name="P47">Čas srazu a společná jízdenka nebyly problém. Stejně tak zázemí nikdo neoznačil za problémové s tím, že některým bylo některou z nocí zima a někdo se ohradil proti chrápání.</text:p>
+   <text:p text:style-name="P47">Rozcvička byla přijata poměrně pozitivně, někdo se ozval, že se málo oblékl a zvlášť nedělní roz­cvička, při které byl použit symbolický rámec, byla kladně přijata.</text:p>
+   <text:p text:style-name="P48">Na jídeln<text:span text:style-name="T63">í</text:span>ček byly většinou neutrální názory, občas někomu něco chybělo nebo přebývalo, nikdo si nestěžoval na hlad ani nebylo žádné jídlo označeno za nedobré. K vaření oběda zaznělo jen <text:span text:style-name="T63">to, </text:span>že asi dvě vlčata nepočítala s tím, že si musí uvařit, a smažení vajíček bylo poměrně problematické, protože měl každý jinou představu o ideálním výsledku.</text:p>
+   <text:p text:style-name="P48">Polední klid i večerní „volný program“ před spaním byly označen<text:span text:style-name="T63">y</text:span> jako krátké, ale také zaznělo, že by si někdo přál víc organizovanou zábavu.</text:p>
+   <text:p text:style-name="P48">Při hodnocení her a programových prvků měla vlčata tendenci spíše vyprávět příběhy, než pou­kazovat na konkrétní aspekty nebo hodnotit.</text:p>
+   <text:h text:style-name="P84" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc724_1312699899"/>Zpětná vazba od Agenta<text:bookmark-end text:name="__RefHeading___Toc724_1312699899"/></text:h>
+   <text:p text:style-name="P48">Kromě krátkých připomínek během realizace jsem celkovou zpětnou vazbu od Agenta získal emai­lem <text:span text:style-name="T41">po akci.</text:span></text:p>
+   <text:h text:style-name="P89" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc726_1312699899"/><text:soft-page-break/>Lesní procházka<text:bookmark-end text:name="__RefHeading___Toc726_1312699899"/></text:h>
+   <text:p text:style-name="P49">Zpětná vazba probíhala poměrně živelně hned když jsme se všichni setkal<text:span text:style-name="T63">i </text:span>na <text:span text:style-name="T63">B</text:span>orovince. Byla to emočně poměrně rozbouřená diskuse. Šlo o to, že vlčata se navzdory mé snaze nechala unést sou­těživostí a místo procházky a poznávání okolí jim šlo především o závod. S Agentem jsme se celkem shodl<text:span text:style-name="T63">i</text:span> na tom, že zpětná vazba probíhala jako diskuse plná emocí, kdy v ideálním případě se nejdříve poukáže na pozitiva a zážitky, a nakonec se ohodnotí, jaká byla pravidla a proč <text:s/>a co se nepovedlo. I vlčata vnímala, že nebyl<text:span text:style-name="T63">a</text:span> spokojen<text:span text:style-name="T63">a</text:span> s tím, jak závodil<text:span text:style-name="T63">a</text:span>, nebylo jasného vítěze. Rozcházíme se v hodnocení mého postupu, kdy já jsem to vnímal tak, že jsem na zážitek pou­kazoval, i když ne dostatečně. Agent naopak napsal, že mou reakci vnímal čistě jako obranou. Jako úspěch hodnotím, že jsem situaci dokázal vyhodnotil i že jsem se snažil přemýšlet nad tím, jak ko­munikuji, nyní se snažím zlepšovat to, jak umím v takové situaci komunikovat.</text:p>
+   <text:p text:style-name="P49">Agent šel jako doprovod s jednou ze skupin a zhodnotil, že pro ně soutěživost byla silnou motivací a ve chvíli, kdy byly skupinky na dohled od sebe, soutěživost převládla a nebyl<text:span text:style-name="T63">i</text:span> schopni se do­hodnout a postupovat jako tým, začali běžet, aniž by se domluvili, kterým směrem chtějí, v podstatě jen náhodou na konci lesa poznali, kde jsou.</text:p>
+   <text:p text:style-name="P53">Během vysvětlování <text:s/>jsem se snažil poukázat na to, že smyslem procházky je hlavně pozorovat a vnímat, ale přesto ve vlčatech významně zafungovala soutěživost. Zřejmě pokud chci dělat něja­kou aktivitu jako nesoutěžní, je třeba to významně zdůraznit. Vlčata mají zažité zaznamenávat, že jde o soutěž mezi nimi, pokud se rozdělí na víc skupin. Zde vidím velkým prostor pro další rozvoj.</text:p>
+   <text:h text:style-name="P90" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc728_1312699899"/>Vaření<text:bookmark-end text:name="__RefHeading___Toc728_1312699899"/></text:h>
+   <text:p text:style-name="P50">Zde se celkem shodneme na tom, že jednodušší úkony <text:span text:style-name="T43">jako krájení dětem šlo. Agent zaznamenal, že bylo vidět, že se někteří během práce zlepšují a že si dokázali najít aktivity, které je při vaření bavili.</text:span></text:p>
+   <text:p text:style-name="P50"><text:span text:style-name="T44">S</text:span>vůj účel <text:span text:style-name="T44">vaření splnilo, </text:span>ale k širší možnosti uplatnění se chyběl podrobně napsaný recept, pomocí kterého by se vlčat<text:span text:style-name="T63">a</text:span> mohla sama řídit. <text:span text:style-name="T44">I Agent poznamenal, že nevnímal, že by vlčata cítila odpo­vědnost za celkový výsledek.</text:span></text:p>
+   <text:h text:style-name="P91" text:outline-level="3"><text:bookmark-start text:name="__RefHeading___Toc730_1312699899"/>Cesta zpět<text:bookmark-end text:name="__RefHeading___Toc730_1312699899"/></text:h>
+   <text:p text:style-name="P51">Cesta z Borovinky na vlakovou zastávku byla z velké části po malé silnici téměř bez provozu asi z poloviny v zástavbě. Když jsme šli, nebyl<text:span text:style-name="T63">i jsme</text:span> příliš kompaktní skupina a postupně se mezery mezi námi zvětšovaly, kdy já jsem šel první a Agent poslední. Agent napsal, že pro něj bylo nepří­jemné, že jsem na tohle riziko nebral ohled.</text:p>
+   <text:p text:style-name="P54"><text:span text:style-name="T44">Já</text:span> jsem <text:span text:style-name="T44">to</text:span> vnímal <text:span text:style-name="T44">tak, že riziko střetu nás a projíždějících aut jsem</text:span> vyhodnotil jinak <text:span text:style-name="T44">a</text:span> největší problém vidím v tom, že jsme se nedokázali navzájem domluvit. <text:span text:style-name="T44">Z hlediska bezpečnosti danou situaci hodnotím jako přijatelnou.</text:span></text:p>
+   <text:h text:style-name="Heading_20_2" text:outline-level="2"><text:bookmark-start text:name="__RefHeading___Toc8379_2117331360"/><text:span text:style-name="T65">Co dál</text:span>?<text:bookmark-end text:name="__RefHeading___Toc8379_2117331360"/></text:h>
+   <text:p text:style-name="P58">Dalším krokem po výpravě je zavedení vlčácké <text:span text:style-name="T66">symboliky během běžných schůzek, v první fázi především předání nových rituálů vlčatům, která na výpravě nebyla. Vlčatům jsem na schůzce následující po výpravě k nováčkům, kterého většina měla, rozdal i první stupeň stezky vlčat.</text:span></text:p>
+   <text:p text:style-name="P59"><text:soft-page-break/>Nyní je třeba dobře naplánovat, k jaké příležitosti a za jakým přesně účelem se budou rituály používat. Kromě výprav a schůzek bych chtěl vyzkoušet více zapojit téma <text:span text:style-name="T67">K</text:span>nihy džunglí také během tábora – především připravit „<text:span text:style-name="T67">Zkoušky džungle“.</text:span></text:p>
+   <text:p text:style-name="Text_20_body">Zapojením rituálů do činnosti na družinové schůzce a vyhrazení konkrétního času i na plnění bodů příslušného stupně stezky (předpokládám, že ji vlčata budou plnit v podobném čase) mi usnadní i potenciální předání družiny jinému vedoucímu, mému nástupce, kterého hledám. Zároveň případná změna vedoucího nebude pro děti takovým šokem právě pro udržování konkrétního schematu schůzky.</text:p>
+  </office:text>
+ </office:body>
+</office:document>
